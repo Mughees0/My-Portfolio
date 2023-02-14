@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost&family=Sassy+Frass&display=swap");
+
+.logo {
+  font-family: "Sassy Frass", cursive;
+  font-size: 60px;
+}
+
+.a1:hover {
+  text-shadow: 0 0 40px red;
+  transition: 0.3s;
+  font-size: 99.5%;
+}
+
+.a2:hover {
+  background-color: crimson;
+  transition: 0.5s;
+}

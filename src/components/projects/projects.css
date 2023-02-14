@@ -1,0 +1,11 @@
+
+
+.div1:hover {
+  box-shadow: 0 0 30px rgba(255, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+.div2:hover {
+  box-shadow: 0 0 30px rgba(255, 247, 0, 0.2);
+  transition: 0.3s;
+}

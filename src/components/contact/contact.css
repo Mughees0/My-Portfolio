@@ -1,0 +1,26 @@
+* {
+  background-color: darkslategray;
+}
+
+.negpad {
+  margin-bottom: -2px;
+}
+
+.negpad1 {
+  margin-bottom: 0.5px;
+}
+
+.wid {
+  width: 40%;
+  align-content: center;
+}
+
+
+
+.button1 {
+  border: none;
+
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}

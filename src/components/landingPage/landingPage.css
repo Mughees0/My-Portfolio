@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost&family=Sassy+Frass&display=swap");
+
+body {
+  background-color: #fd0404;
+}
+
+.name {
+  font-size: 60px;
+}
+
+.text1 {
+  font-size: 19px;
+  font-family: "Open-sans", sans-serif;
+  color: #f0c45c;
+}
+
+.text2 {
+  font-size: 18px;
+  font-family: "Jost", sans-serif;
+}
+.m-30 {
+  padding-top: 20%;
+}
