@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mughees-portfolio/static/css/main.0dda4146.css",
+    "main.js": "/mughees-portfolio/static/js/main.1cb27c60.js",
+    "static/media/IMG_0033.jpeg": "/mughees-portfolio/static/media/IMG_0033.7b25b56e0683e37fdcee.jpeg",
+    "static/media/Screenshot 2023-02-13 at 6.38.08 PM.png": "/mughees-portfolio/static/media/Screenshot 2023-02-13 at 6.38.08 PM.f164ee5e372f55b6eb0a.png",
+    "static/media/Screenshot 2023-02-13 at 5.08.08 PM.png": "/mughees-portfolio/static/media/Screenshot 2023-02-13 at 5.08.08 PM.7e3634ed577092dd79c6.png",
+    "index.html": "/mughees-portfolio/index.html",
+    "main.0dda4146.css.map": "/mughees-portfolio/static/css/main.0dda4146.css.map",
+    "main.1cb27c60.js.map": "/mughees-portfolio/static/js/main.1cb27c60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dda4146.css",
+    "static/js/main.1cb27c60.js"
+  ]
+}
